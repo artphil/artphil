@@ -1,8 +1,8 @@
 ### Olá, sou o Arthur Phillip
 
-Bacharel em Sistemas de informação, cristão, casado e belorizontino.
+Bacharel em Sistemas de Informação, cristão, casado e belorizontino.
 
-Desbravando o mundo do React e me divertindo com Godot nas horas vagas.
+Desbravando o mundo do Front-End e me divertindo com Godot nas horas vagas.
 
 ## Minhas redes
 
@@ -15,11 +15,13 @@ Desbravando o mundo do React e me divertindo com Godot nas horas vagas.
 
 ## Habilidades
 
-![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+![Stencil](https://img.shields.io/badge/stencil-000?style=for-the-badge&logo=stencil)
+![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
 ![Godot](https://img.shields.io/badge/Godot-000?style=for-the-badge&logo=godot-engine)
 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
